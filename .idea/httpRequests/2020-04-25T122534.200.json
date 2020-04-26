@@ -1,0 +1,198 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Pizza",
+            "description": "The tastiest pizza",
+            "products": [
+                {
+                    "id": 9,
+                    "name": "Salami Supreme",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 10.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 11.01,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "mit extra viel Salami[2,3].",
+                    "img": "http:\/\/pizzatest.loc\/img\/1.jpg"
+                },
+                {
+                    "id": 10,
+                    "name": "Dutchman",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 11.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 12.1,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "mit Prosciutto Cotto[2,3,9,17], Tomaten, Broccoli-Röschen und Sa...",
+                    "img": "http:\/\/pizzatest.loc\/img\/2.jpg"
+                },
+                {
+                    "id": 11,
+                    "name": "Cheeseburger Pizza",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 12.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 13.19,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "mit Rinderhack[19], frischen Tomaten, eingelegten Gurken, roten ...",
+                    "img": "http:\/\/pizzatest.loc\/img\/3.jpg"
+                },
+                {
+                    "id": 12,
+                    "name": "Waikiki",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 13.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 14.28,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "mit Prosciutto Cotto[2,3,9,17], fruchtiger Ananas und extra viel...",
+                    "img": "http:\/\/pizzatest.loc\/img\/4.jpg"
+                },
+                {
+                    "id": 13,
+                    "name": "Tuna",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 14.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 15.37,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "mit extra viel Thunfisch und roten Zwiebeln. Zusatzstoffe siehe ...",
+                    "img": "http:\/\/pizzatest.loc\/img\/5.jpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Bombay",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 15.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 16.46,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "mit Hähnchenbrustfilet, Ananas und Currysauce[14,18]. Zusatzstof...",
+                    "img": "http:\/\/pizzatest.loc\/img\/6.jpg"
+                },
+                {
+                    "id": 15,
+                    "name": "Lucifer",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 16.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 17.55,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "mit Chilisalami[2,3], frischen Champignons und feurigen Jalapeño...",
+                    "img": "http:\/\/pizzatest.loc\/img\/7.jpg"
+                },
+                {
+                    "id": 16,
+                    "name": "Lucca",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 17.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 18.64,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "mit Prosciutto Cotto[2,3,9,17], Salami[2,3] und frischen Champig...",
+                    "img": "http:\/\/pizzatest.loc\/img\/8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Other",
+            "description": "Other products",
+            "products": [
+                {
+                    "id": 17,
+                    "name": "Salat Deluxe",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 5.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 5.56,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "gemischter Salat mit Rucola, Cherrytomaten, Gurken, Prosciutto C...",
+                    "img": "http:\/\/pizzatest.loc\/img\/s1.jpg"
+                },
+                {
+                    "id": 18,
+                    "name": "Salat Caesar's Chicken ",
+                    "price": [
+                        {
+                            "name": "EUR",
+                            "value": 6.1,
+                            "sign": "€"
+                        },
+                        {
+                            "name": "USD",
+                            "value": 6.65,
+                            "sign": "$"
+                        }
+                    ],
+                    "description": "Römersalat mit Cherrytomaten, Hähnchenbrustfilet, italienischem ...",
+                    "img": "http:\/\/pizzatest.loc\/img\/s2.jpg"
+                }
+            ]
+        }
+    ]
+}

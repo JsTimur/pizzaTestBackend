@@ -1,0 +1,105 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "name": "Other",
+            "description": "Other products",
+            "products": []
+        },
+        {
+            "id": 1,
+            "name": "Pizza",
+            "description": "The tastiest pizza",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "http:\/\/pizzatest.loc\/img\/1.jpg",
+                    "price": 10.1,
+                    "name": "Salami Supreme",
+                    "description": "mit extra viel Salami[2,3].",
+                    "is_active": 1,
+                    "category_id": 1,
+                    "created_at": "2020-04-22T08:39:28.000000Z",
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "image": "http:\/\/pizzatest.loc\/img\/2.jpg",
+                    "price": 11.1,
+                    "name": "Dutchman",
+                    "description": "mit Prosciutto Cotto[2,3,9,17], Tomaten, Broccoli-Röschen und Sa...",
+                    "is_active": 1,
+                    "category_id": 1,
+                    "created_at": "2020-04-22T08:39:28.000000Z",
+                    "updated_at": null
+                },
+                {
+                    "id": 3,
+                    "image": "http:\/\/pizzatest.loc\/img\/3.jpg",
+                    "price": 12.1,
+                    "name": "Cheeseburger Pizza",
+                    "description": "mit Rinderhack[19], frischen Tomaten, eingelegten Gurken, roten ...",
+                    "is_active": 1,
+                    "category_id": 1,
+                    "created_at": "2020-04-22T08:39:28.000000Z",
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "image": "http:\/\/pizzatest.loc\/img\/4.jpg",
+                    "price": 13.1,
+                    "name": "Waikiki",
+                    "description": "mit Prosciutto Cotto[2,3,9,17], fruchtiger Ananas und extra viel...",
+                    "is_active": 1,
+                    "category_id": 1,
+                    "created_at": "2020-04-22T08:39:28.000000Z",
+                    "updated_at": null
+                },
+                {
+                    "id": 5,
+                    "image": "http:\/\/pizzatest.loc\/img\/5.jpg",
+                    "price": 14.1,
+                    "name": "Tuna",
+                    "description": "mit extra viel Thunfisch und roten Zwiebeln. Zusatzstoffe siehe ...",
+                    "is_active": 1,
+                    "category_id": 1,
+                    "created_at": "2020-04-22T08:39:28.000000Z",
+                    "updated_at": null
+                },
+                {
+                    "id": 6,
+                    "image": "http:\/\/pizzatest.loc\/img\/6.jpg",
+                    "price": 15.1,
+                    "name": "Bombay",
+                    "description": "mit Hähnchenbrustfilet, Ananas und Currysauce[14,18]. Zusatzstof...",
+                    "is_active": 1,
+                    "category_id": 1,
+                    "created_at": "2020-04-22T08:39:28.000000Z",
+                    "updated_at": null
+                },
+                {
+                    "id": 7,
+                    "image": "http:\/\/pizzatest.loc\/img\/7.jpg",
+                    "price": 16.1,
+                    "name": "Lucifer",
+                    "description": "mit Chilisalami[2,3], frischen Champignons und feurigen Jalapeño...",
+                    "is_active": 1,
+                    "category_id": 1,
+                    "created_at": "2020-04-22T08:39:28.000000Z",
+                    "updated_at": null
+                },
+                {
+                    "id": 8,
+                    "image": "http:\/\/pizzatest.loc\/img\/8.jpg",
+                    "price": 17.1,
+                    "name": "Lucca",
+                    "description": "mit Prosciutto Cotto[2,3,9,17], Salami[2,3] und frischen Champig...",
+                    "is_active": 1,
+                    "category_id": 1,
+                    "created_at": "2020-04-22T08:39:28.000000Z",
+                    "updated_at": null
+                }
+            ]
+        }
+    ]
+}

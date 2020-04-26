@@ -1,0 +1,398 @@
+POST http://pizzatest.loc/api/orderHistory?email=adjin@majil.ru
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-25T072052.200.json
+
+###
+
+POST http://pizzatest.loc/api/orderHistory?email=admjin@majil.ru
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-25T071946.200.json
+
+###
+
+POST http://pizzatest.loc/api/login?email=admjin@majil.ru&password=12345
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-25T010113.200.json
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe&items=agegaesgaseg
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-25T125913.200.json
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe&items=agegaesgaseg
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-25T125115.200.json
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-25T124254.200.json
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order?email=admjin@majil.ru&address=fwefwegwegwe
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order?email=admin@mail.ru&address=fwefwegwegwe
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://pizzatest.loc/api/order
+Accept: application/json
+Cache-Control: no-cache
+{:
+  "email": "feaf@afef.ru",
+  "address": "feafasefaserr are sra serere"
+}:
+
+<> 2020-04-25T122657.400.html
+
+###
+
+POST http://pizzatest.loc/api/order
+Accept: application/json
+Cache-Control: no-cache
+{:
+  "email": "feaf@afef.ru",
+  "address": "feafasefaserr are sra serere"
+}:
+
+<> 2020-04-25T122642.400.html
+
+###
+
+POST http://pizzatest.loc/api/order
+Accept: application/json
+Cache-Control: no-cache
+{:
+  "email": "feaf@afef.ru",
+  "address": "feafasefaserr are sra serere"
+}:
+
+<> 2020-04-25T122616.400.html
+
+###
+
+POST http://pizzatest.loc/api/order
+Accept: application/json
+Cache-Control: no-cache
+{:
+  "email": "feaf@afef.ru",
+  "address": "feafasefaserr are sra serere"
+}:
+
+<> 2020-04-25T122609.400.html
+
+###
+
+POST http://pizzatest.loc/api/order
+Accept: application/json
+Cache-Control: no-cache
+{:
+  "email": feaf@afef.ru,
+  "address": "feafasefaserr are sra serere"
+}:
+
+<> 2020-04-25T122542.400.html
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-25T122534.200.json
+
+###
+
+POST http://pizzatest.loc/api/order
+Accept: application/json
+Cache-Control: no-cache
+{:
+  "email": feaf@afef.ru,
+  "address": "feafasefaserr are sra serere"
+}:
+
+<> 2020-04-25T122221.400.html
+
+###
+
+POST http://pizzatest.loc/api/register?name=admin&password=12345678&email=admin@mail.ru&password_confirmation=12345678
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-25T122022.201.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T064358.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T064123.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T064042.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T063608.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T062718.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T062537.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T062521.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T054201.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://pizzatest.loc/api/categories?XDEBUG_SESSION_START=PHPSTORM
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://pizzatest.loc/api/categories?XDEBUG_SESSION_START=PHPSTORM
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T053907.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories?XDEBUG_SESSION_START=PHPSTORM
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T053836.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories?XDEBUG_SESSION_START=PHPSTORM
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T053813.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T053800.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T053716.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T053633.500.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T121215.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T121145.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T121130.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T121108.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T120912.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T120902.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T120844.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T120808.200.json
+
+###
+
+GET http://pizzatest.loc/api/categories
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-04-22T120339.200.json
+
+###
+

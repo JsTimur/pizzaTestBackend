@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Pizza",
+            "description": "The tastiest pizza",
+            "products": [
+                {
+                    "id": 1,
+                    "name2": "Salami Supreme",
+                    "price": 10.1,
+                    "description": "mit extra viel Salami[2,3]."
+                },
+                {
+                    "id": 2,
+                    "name2": "Dutchman",
+                    "price": 11.1,
+                    "description": "mit Prosciutto Cotto[2,3,9,17], Tomaten, Broccoli-Röschen und Sa..."
+                },
+                {
+                    "id": 3,
+                    "name2": "Cheeseburger Pizza",
+                    "price": 12.1,
+                    "description": "mit Rinderhack[19], frischen Tomaten, eingelegten Gurken, roten ..."
+                },
+                {
+                    "id": 4,
+                    "name2": "Waikiki",
+                    "price": 13.1,
+                    "description": "mit Prosciutto Cotto[2,3,9,17], fruchtiger Ananas und extra viel..."
+                },
+                {
+                    "id": 5,
+                    "name2": "Tuna",
+                    "price": 14.1,
+                    "description": "mit extra viel Thunfisch und roten Zwiebeln. Zusatzstoffe siehe ..."
+                },
+                {
+                    "id": 6,
+                    "name2": "Bombay",
+                    "price": 15.1,
+                    "description": "mit Hähnchenbrustfilet, Ananas und Currysauce[14,18]. Zusatzstof..."
+                },
+                {
+                    "id": 7,
+                    "name2": "Lucifer",
+                    "price": 16.1,
+                    "description": "mit Chilisalami[2,3], frischen Champignons und feurigen Jalapeño..."
+                },
+                {
+                    "id": 8,
+                    "name2": "Lucca",
+                    "price": 17.1,
+                    "description": "mit Prosciutto Cotto[2,3,9,17], Salami[2,3] und frischen Champig..."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Other",
+            "description": "Other products",
+            "products": []
+        }
+    ]
+}

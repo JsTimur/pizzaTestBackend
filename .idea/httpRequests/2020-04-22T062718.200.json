@@ -1,0 +1,97 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Pizza",
+            "description": "The tastiest pizza",
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Salami Supreme",
+                    "price": {
+                        "EUR": "10.10",
+                        "USD": "11.01"
+                    },
+                    "description": "mit extra viel Salami[2,3].",
+                    "img": "http:\/\/pizzatest.loc\/img\/1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Dutchman",
+                    "price": {
+                        "EUR": "11.10",
+                        "USD": "12.10"
+                    },
+                    "description": "mit Prosciutto Cotto[2,3,9,17], Tomaten, Broccoli-Röschen und Sa...",
+                    "img": "http:\/\/pizzatest.loc\/img\/2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Cheeseburger Pizza",
+                    "price": {
+                        "EUR": "12.10",
+                        "USD": "13.19"
+                    },
+                    "description": "mit Rinderhack[19], frischen Tomaten, eingelegten Gurken, roten ...",
+                    "img": "http:\/\/pizzatest.loc\/img\/3.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Waikiki",
+                    "price": {
+                        "EUR": "13.10",
+                        "USD": "14.28"
+                    },
+                    "description": "mit Prosciutto Cotto[2,3,9,17], fruchtiger Ananas und extra viel...",
+                    "img": "http:\/\/pizzatest.loc\/img\/4.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Tuna",
+                    "price": {
+                        "EUR": "14.10",
+                        "USD": "15.37"
+                    },
+                    "description": "mit extra viel Thunfisch und roten Zwiebeln. Zusatzstoffe siehe ...",
+                    "img": "http:\/\/pizzatest.loc\/img\/5.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Bombay",
+                    "price": {
+                        "EUR": "15.10",
+                        "USD": "16.46"
+                    },
+                    "description": "mit Hähnchenbrustfilet, Ananas und Currysauce[14,18]. Zusatzstof...",
+                    "img": "http:\/\/pizzatest.loc\/img\/6.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Lucifer",
+                    "price": {
+                        "EUR": "16.10",
+                        "USD": "17.55"
+                    },
+                    "description": "mit Chilisalami[2,3], frischen Champignons und feurigen Jalapeño...",
+                    "img": "http:\/\/pizzatest.loc\/img\/7.jpg"
+                },
+                {
+                    "id": 8,
+                    "name": "Lucca",
+                    "price": {
+                        "EUR": "17.10",
+                        "USD": "18.64"
+                    },
+                    "description": "mit Prosciutto Cotto[2,3,9,17], Salami[2,3] und frischen Champig...",
+                    "img": "http:\/\/pizzatest.loc\/img\/8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Other",
+            "description": "Other products",
+            "products": []
+        }
+    ]
+}
